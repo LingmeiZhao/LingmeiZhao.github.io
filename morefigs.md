@@ -13,6 +13,14 @@ title: Karl Broman
       </ul>
   </div>
 </div>
+
+<body>
+<p>
+My name is Lingmei Zhao, a student in statistics major in The George Washington University. I am passionaate about Data Science and technology. I have interdisciplinary background with business, statistics and computer science.
+</p>
+</body>
+
+
 ### <a name="Portfolio"></a>Portfolio
 <table class="wide">
 <tr>
