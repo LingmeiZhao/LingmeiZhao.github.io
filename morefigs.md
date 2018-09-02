@@ -35,7 +35,7 @@ My name is Lingmei Zhao, a student in statistics major in The George Washington 
     </a>
   </td>
 </tr>
-<tr>
+<!--<tr>
   <td class="left">
     <a href="pages/publpics/phyloqtl_fig6.html">
         <img src="assets/publpics/phyloqtl_fig6.png" alt="Broman et al. (2012) Fig 6" title="Broman et al. (2012) Fig 6"/>
@@ -104,7 +104,7 @@ My name is Lingmei Zhao, a student in statistics major in The George Washington 
   <td class="right">
   </td>
 </tr>
-</table>
+</table>-->
 
 <div class="navbar">
   <div class="navbar-inner">

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publications
-description: Ben Harvey's publications
+title: projects
+description: Lingmei Zhao's projects
 ---
 
 <div class="navbar">
