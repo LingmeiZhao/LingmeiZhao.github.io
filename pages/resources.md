@@ -74,7 +74,7 @@ description: Ben Harvey's assignments
 
 #### <a name="qtl"></a>[UCI Machine Learning Repisitory](https://archive.ics.uci.edu/ml/datasets.html)
 {Add description of data here}-->
-
+<!--
 [data example](http://groups.google.com/group/Rqtl-disc)
 [data repository](http://groups.google.com/group/Rqtl-disc)
 
@@ -144,4 +144,4 @@ description: Ben Harvey's assignments
 
 ## <a name="Miscelaneous"></a>Miscelaneous
 ---
-
+-->
