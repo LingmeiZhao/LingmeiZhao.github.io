@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Lingmei Zhao
+description: I am a graduate student in statistics major in The George Washington University. 
 keywords: statistics, data analytics
 ---
 
