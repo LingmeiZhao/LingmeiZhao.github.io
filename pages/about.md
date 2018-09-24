@@ -11,8 +11,8 @@ I am a current students in The George Washington University. I major in statisti
 
 #### <a name="Education"></a>Education
 <ul>
-     <li><a href="#Master degree">The George Washington University  ----Statistics</a></li>
-    <li><a href="#Bachelor degree">Shanghai University of International Business and Economics  ----Assets Appraisal</a></li>
+     <li> Master degree: The George Washington University  ----Statistics</a></li>
+    <li> Bachelor degree: Shanghai University of International Business and Economics  ----Assets Appraisal</a></li>
 <\ul>
 
 ---
