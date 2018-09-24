@@ -36,7 +36,7 @@ Results | Repository
 
 
 ####  <a name="Project2"></a>Project2
-##### <a name="Game Recommender System"></a>Recommender System
+##### <a name="Game Recommender System"></a> Game Recommender System
 * [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 
 Add description of example an assignment here
@@ -54,6 +54,7 @@ Add description of example an assignment here
 
 ---
 
+<!--
 
 ####  <a name="Assignment3"></a>Assignment3
 ##### <a name="deeplearning"></a>machine learning part1
@@ -113,6 +114,7 @@ Add description of example an assignment here
 | ---------------------- |:--------------------------:|
 | [Extra Credit results]()| [Extra Credit repositiory]()|
 
+
 ---
 
 
@@ -131,3 +133,4 @@ Add description of example an assignment here
 
 
 ---
+-->
