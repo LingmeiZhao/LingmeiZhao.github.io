@@ -15,6 +15,8 @@ I am a current students in The George Washington University. I major in statisti
     <li><a href="#Bachelor degree">Shanghai University of International Business and Economics  ----Assets Appraisal</a></li>
 <\ul>
 
+---
+
 #### <a name="Hobbies and Interests"></a>Hobbies and Interests
 <ul>
     <li> karate <\li>
@@ -23,6 +25,7 @@ I am a current students in The George Washington University. I major in statisti
     <li> embroidery <\li>
 <\ul>
 
+---
 
 #### [More Information]
 <ul>
@@ -31,6 +34,7 @@ I am a current students in The George Washington University. I major in statisti
     <li><a href ="https://www.kaggle.com/lingmeizhao">Kaggle</a></li>
 </ul>
 
+---
 #### <a name="cvandresume"></a>cv and resume
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
 
