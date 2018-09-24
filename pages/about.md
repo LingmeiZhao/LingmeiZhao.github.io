@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Lingmei Zhao is...
 ---
 
 #### <a name="currentposition"></a>current position
