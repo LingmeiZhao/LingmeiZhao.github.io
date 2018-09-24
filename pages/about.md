@@ -8,6 +8,7 @@ description: Lingmei Zhao is...
 
 I am a current students in The George Washington University. I major in statistics. I am very interested in Data Analysis, Data Visualization and Data Modelling. Besides, I Studied finance and accounting in my undergraduate, and studied computer science on my own. In a word, I am passionate with data science, business and technical.
 
+---
 
 #### <a name="Education"></a>Education
 
