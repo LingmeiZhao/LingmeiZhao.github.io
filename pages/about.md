@@ -11,15 +11,15 @@ I am a current students in The George Washington University. I major in statisti
 
 #### <a name="Education"></a>Education
 <ul>
-     <li> Master degree: The George Washington University  ----Statistics</a></li>
-    <li> Bachelor degree: Shanghai University of International Business and Economics  ----Assets Appraisal</a></li>
+     <li> Master degree: The George Washington University  ----Statistics</li>
+    <li> Bachelor degree: Shanghai University of International Business and Economics  ----Assets Appraisal</li>
 <\ul>
 
 ---
 
 #### <a name="Hobbies and Interests"></a>Hobbies and Interests
 <ul>
-    <li> karate <\li>
+    <li> karate <\lis>
     <li> fitness <\li>
     <li> travel <\li>
     <li> embroidery <\li>
