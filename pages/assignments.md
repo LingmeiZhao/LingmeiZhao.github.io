@@ -1,30 +1,26 @@
 ---
 layout: page
-title: labs & assignments
-description: Ben Harvey's assignments
+title: projects
+description: projects
 ---
 
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Assignment1">Assignment1</a></li>
-            <li><a href="#Assignment2">Assignment2</a></li>
-            <li><a href="#Assignment3">Assignment3</a></li>
-            <li><a href="#Assignment4">Assignment4</a></li>
-            <li><a href="#ExtraCredit">Extra Credit Assignment</a></li>
-            <li><a href="#labassignments">Lab Assignments</a></li>
+            <li><a href="#project1">project1</a></li>
+            <li><a href="#project2">project2</a></li>
         </ul>
     </div>
 </div>
 
 
-### EMSE 6992 Assignments
-####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
+### Independent Projects
+####  <a name="Project 1"></a>Project 1
+##### <a name="Sentimental Analysis on Hotel Reviews"></a>data maniuplation and aggregation
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
-{Add description of example an assignment here}
+{In the project, I did visualization about the data set to analyze hotels' characteristics and people's review. Besides, I plotted bar chart and geographic map to analyze the hotels' location. Furthermore, I used chi-squre to select important words as features, and divided the reviews as positive and negative according to its rating. Finally, I used logistic regression to train model, and test the result. The total accuracy of my result is 63%}
 
 
 ##### <a name="visualization"></a>visualization
