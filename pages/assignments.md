@@ -17,10 +17,10 @@ description: projects
 
 ### Independent Projects
 ####  <a name="Project 1"></a>Project 1
-##### <a name="Sentimental Analysis on Hotel Reviews"></a>data maniuplation and aggregation
+##### <a name="Sentimental Analysis on Hotel Reviews"></a>Sentimental Analysis on Hotel Reviews
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
-{In the project, I did visualization about the data set to analyze hotels' characteristics and people's review. Besides, I plotted bar chart and geographic map to analyze the hotels' location. Furthermore, I used chi-squre to select important words as features, and divided the reviews as positive and negative according to its rating. Finally, I used logistic regression to train model, and test the result. The total accuracy of my result is 63%}
+In the project, I did visualization about the data set to analyze hotels' characteristics and people's review. Besides, I plotted bar chart and geographic map to analyze the hotels' location. Furthermore, I used chi-squre to select important words as features, and divided the reviews as positive and negative according to its rating. Finally, I used logistic regression to train model, and test the result. The total accuracy of my result is 63%
 
 
 ##### <a name="visualization"></a>visualization
@@ -35,11 +35,11 @@ Results | Repository
 ---
 
 
-####  <a name="Assignment2"></a>Assignment2
-##### <a name="scientificcomputing"></a>scientific computing
+####  <a name="Project2"></a>Project2
+##### <a name="Game Recommender System"></a>Recommender System
 * [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
 
-{Add description of example an assignment here}
+Add description of example an assignment here
 
 
 ##### <a name="statisticalanalysis"></a>statistic alanalysis
