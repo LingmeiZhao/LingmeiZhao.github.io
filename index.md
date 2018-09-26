@@ -9,9 +9,8 @@ keywords: statistics, data analytics
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="https://github.com/LingmeiZhao">github</a></li>
+          <li><a href="https://www.linkedin.com/in/lingmeizhao">LinkedIn</a></li>
       </ul>
   </div>
 </div>
@@ -22,12 +21,12 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="assets/publpics/wordCloud.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
+        <img src="assets/publpics/Normal Confusion Matrix.jpg" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
     </a>
   </td>
