@@ -38,8 +38,8 @@ I am a current student in The George Washington University. I major in statistic
 </ul>
 
 ---
-#### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/resume.pdf)
+#### <a name="resume"></a> resume
+[resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/resume.pdf)
 
 ---
 
