@@ -20,12 +20,12 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="{{ BASE_PATH }}/_posts/Sentiment-Analysis-on-Hotel-Reviws.md">
+    <a href="_posts/Sentiment-Analysis-on-Hotel-Reviws.html">
         <img src="assets/publpics/wordCloud.jpg" alt="R/qtlcharts example" title="wordCloud"/>
     </a>
   </td>
   <td class="right">
-    <a href="{{ BASE_PATH }}/_posts/Sentiment-Analysis-on-Hotel-Reviws.md">
+    <a href="_posts/Sentiment-Analysis-on-Hotel-Reviws.html">
         <img src="assets/publpics/Normal Confusion Matrix.jpg" alt="Tian et
         al. (2016) Fig 4" title="Normal Confusion Matrix"/>
     </a>
