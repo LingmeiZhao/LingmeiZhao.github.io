@@ -20,14 +20,14 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/wordCloud.jpg" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="{{ BASE_PATH }}/_posts/Sentiment-Analysis-on-Hotel-Reviws.md">
+        <img src="assets/publpics/wordCloud.jpg" alt="R/qtlcharts example" title="wordCloud"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
+    <a href="{{ BASE_PATH }}/_posts/Sentiment-Analysis-on-Hotel-Reviws.md">
         <img src="assets/publpics/Normal Confusion Matrix.jpg" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        al. (2016) Fig 4" title="Normal Confusion Matrix"/>
     </a>
   </td>
 </tr>
@@ -45,6 +45,7 @@ keywords: statistics, data analytics
 </tr>
 </table>
 
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -52,3 +53,4 @@ keywords: statistics, data analytics
       </ul>
   </div>
 </div>
+-->
