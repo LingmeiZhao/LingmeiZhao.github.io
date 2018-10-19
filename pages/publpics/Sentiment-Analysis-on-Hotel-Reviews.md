@@ -16,8 +16,22 @@ This dataset has a big problem, which is the reviews have different language. I 
 I plotted a bar chart to analyze the top ten states in USA with most hotel reviews. In addition, I used a words cloud about hotel marks, which can reflet hotels' types in the dataset. I also plotted a words cloud about reviews to analyze the frenquency of words in hotel review. These graphs are posted as following.
 
 <img src = "/figures/HotelReview/hotelReviews_province.jpg" alt = "Characters Occurrence">
-<img src = "/figures/HotelReview/wordCloud.jpg" alt = "Characters Occurrence">
-<img src = "/figures/HotelReview/reviewsCloud.jpg" alt = "Characters Occurrence">
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <a
+    <img src="/figures/HotelReview/wordCloud.jpg" alt="Characters Occurrence" title="wordCloud"/>
+    </a>
+  </td>
+
+<td class="right">
+    <a 
+        <img src="/figures/HotelReview/reviewsCloud.jpg"  alt = "Characters Occurrence"> title="Word Cloud"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 # Data Modeling
 ## Feture Selection
