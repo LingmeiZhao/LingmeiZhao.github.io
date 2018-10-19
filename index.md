@@ -21,25 +21,24 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/Sentiment-Analysis-on-Hotel-Reviews.html">
-        <img src="assets/publpics/wordCloud.jpg" alt="R/qtlcharts example" title="wordCloud"/>
+        <img src="assets/publpics/wordCloud.jpg" alt="words cloud" title="wordCloud"/>
     </a>
   </td>
   <td class="right">
     <a href="pages/publpics/Sentiment-Analysis-on-Hotel-Reviews.html">
-        <img src="assets/publpics/Normal Confusion Matrix.jpg" alt="Tian et
-        al. (2016) Fig 4" title="Normal Confusion Matrix"/>
+        <img src="assets/publpics/Normal Confusion Matrix.jpg" alt=" confusion matrix" title="Normal Confusion Matrix"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/play_time_histogram.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/publpics/Recommender-System-on-Game.html">
+        <img src="assets/publpics/play_time_histogram.png" alt="game playing time histogram" title="game playing time histogram"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/game_play_char.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/publpics/Recommender-System-on-Game.html">
+        <img src="assets/publpics/game_play_char.png" alt="game playing bar chart" title="game playing bar chart"/>
     </a>
   </td>
 </tr>

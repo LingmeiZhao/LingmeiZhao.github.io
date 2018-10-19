@@ -17,21 +17,11 @@ I plotted a bar chart to analyze the top ten states in USA with most hotel revie
 
 <img src = "/figures/HotelReview/hotelReviews_province.jpg" alt = "Characters Occurrence">
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a
-    <img src="/figures/HotelReview/wordCloud.jpg" alt="Characters Occurrence" title="wordCloud"/>
-    </a>
-  </td>
 
-<td class="right">
-    <a 
-        <img src="/figures/HotelReview/reviewsCloud.jpg"  alt = "Characters Occurrence"> title="Word Cloud"/>
-    </a>
-  </td>
-</tr>
-</table>
+
+<img src="/figures/HotelReview/reviewsCloud.jpg"  alt = "Characters Occurrence"> title="Word Cloud"/>
+ 
+
 
 # Data Modeling
 ## Feture Selection
