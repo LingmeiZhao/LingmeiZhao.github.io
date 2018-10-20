@@ -30,20 +30,10 @@ This dataset is rather clean. Therefore, I did not spend much time to clean data
 
 After analyzing the top 10 popular games, I implemented density distribution plot to see users' game playing distribution. Most users are playing game less than 100, only few users have long game-playing time. To better show the distribution, I did a log transformation of the playing time.
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a
         <img src = "/figures/RecommenderSystem/play_time_histogram.png" alt = "game playing histogram">
-    </a>
-  </td>
-  <td class="right">
-    <a 
+
         <img src = "/figures/RecommenderSystem/play_time_density.png" alt = "game playing time density">
-    </a>
-  </td>
-</tr>
-</table>
+
 
 # Data Construct
 To quantify users preference for game, I used quintiles of users' game playing time, which divided all playing time into five grades as rating. Then I applied collaborative filtering to make recommendations for users using pandas and numpy. Accoding to the rating matrix, recommendate the highest rating game for users.
