@@ -39,7 +39,7 @@ I am a current student in The George Washington University. I major in statistic
 
 ---
 #### <a name="resume"></a> resume
-[resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/resume.pdf)
+[resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/resume_Lingmei_Zhao.pdf)
 
 ---
 
