@@ -22,9 +22,9 @@ This dataset is rather clean. Therefore, I did not spend much time to clean data
 After analyzing the top 10 popular games, I implemented density distribution plot to see users' game playing distribution. Most users are playing game less than 100, only few users have long game-playing time. To better show the distribution, I did a log transformation of the playing time.
 
 
-<img src = "/figures/RecommenderSystem/play_time_histogram.png" alt = "game playing histogram">
+<img src = "/figures/recommenderSystem/play_time_density.png" alt = "game playing histogram">
  
-<img src = "/figures/RecommenderSystem/play_time_density.png" alt = "game playing time density">
+<img src = "/figures/recommenderSystem/play_time_histogram.png" alt = "game playing time density">
 
 
 # Data Construct
