@@ -14,9 +14,9 @@ Recommender System is very import in business and Internt. I am very interested 
 This dataset is rather clean. Therefore, I did not spend much time to clean data. However, to find whether there exist extram data, I did simple statistics discribing. After delete few extram data, I plotted two bar charts about users' game playing time and users' game purchasing to analyzed the top ten popular games. From the bar charts, we can see the popular played games are also purchased most.
 
 
-<img src = "/figures/RecommenderSystem/game_play_char.png" alt = "game playing bar chart">
+<img src = "/figures/recommenderSystem/game_play_char.png" alt = "game playing bar chart">
  
-<img src = "/figures/RecommenderSystem/game_purchase_char.png" alt = "game purchasing bar chart">
+<img src = "/figures/recommenderSystem/game_purchase_char.png" alt = "game purchasing bar chart">
 
 
 After analyzing the top 10 popular games, I implemented density distribution plot to see users' game playing distribution. Most users are playing game less than 100, only few users have long game-playing time. To better show the distribution, I did a log transformation of the playing time.
