@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: default
 title: Lingmei Zhao
 description: I am a graduate student in statistics major in The George Washington University. 
 keywords: statistics, data analytics
