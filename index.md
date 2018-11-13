@@ -17,7 +17,7 @@ keywords: statistics, data analytics
 </div>
 -->
 
-<table class="wide">
+<table>
 <tr>
   <td class="left">
     <a href="pages/publpics/Sentiment-Analysis-on-Hotel-Reviews.html">
