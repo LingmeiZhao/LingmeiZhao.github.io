@@ -5,6 +5,7 @@ description: I am a graduate student in statistics major in The George Washingto
 keywords: statistics, data analytics
 ---
 
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -14,6 +15,7 @@ keywords: statistics, data analytics
       </ul>
   </div>
 </div>
+-->
 
 <table class="wide">
 <tr>
@@ -41,13 +43,3 @@ keywords: statistics, data analytics
   </td>
 </tr>
 </table>
-
-<!--
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="morefigs.html">see more figures</a></li>
-      </ul>
-  </div>
-</div>
--->
