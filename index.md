@@ -4,7 +4,7 @@ layout: default
 
 Finally, you find me here!
 
-<div style="width:700px">
+<div width="700px">
 <table>
 <tr>
   <td class="left">
