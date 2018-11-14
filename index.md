@@ -4,8 +4,7 @@ layout: default
 
 Finally, you find me here!
 
-<div width="700px">
-<table>
+<table width="700px">
 <tr>
   <td class="left">
     <a href="pages/publpics/Sentiment-Analysis-on-Hotel-Reviews.html">
@@ -31,4 +30,3 @@ Finally, you find me here!
   </td>
 </tr>
 </table>
-</div>
