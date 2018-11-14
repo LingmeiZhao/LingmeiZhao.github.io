@@ -4,7 +4,7 @@ layout: default
 
 Finally, you find me here!
 
-<div class="container-narrow">
+<div max-width="700px">
 <table>
 <tr>
   <td class="left">
