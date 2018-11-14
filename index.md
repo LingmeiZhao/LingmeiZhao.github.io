@@ -4,7 +4,7 @@ layout: default
 
 Finally, you find me here!
 
-<table width="700px">
+<table width="700">
 <tr>
   <td class="left">
     <a href="pages/publpics/Sentiment-Analysis-on-Hotel-Reviews.html">
