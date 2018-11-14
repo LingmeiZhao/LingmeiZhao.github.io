@@ -4,6 +4,7 @@ layout: default
 
 Finally, you find me here!
 
+<div class="container-narrow">
 <table>
 <tr>
   <td class="left">
@@ -30,3 +31,4 @@ Finally, you find me here!
   </td>
 </tr>
 </table>
+</div>
