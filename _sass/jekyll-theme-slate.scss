@@ -28,7 +28,7 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
-  max-width: 700px;
+  max-width: 500px;
 }
 
 ol, ul {
@@ -232,6 +232,7 @@ hr {
 table {
   border: 1px solid #373737;
   margin-bottom: 20px;
+  max-width: 500px;
   text-align: left;
  }
 
