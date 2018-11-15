@@ -4,6 +4,8 @@ layout: default
 
 Finally, you find me here!
 
+<img src="assets/images/wordCloud.jpg" alt="words cloud" title="wordCloud"/>
+<!--
 <table style="width:300px">
 <tr>
   <td class="left">
@@ -30,3 +32,4 @@ Finally, you find me here!
   </td>
 </tr>
 </table>
+-->
