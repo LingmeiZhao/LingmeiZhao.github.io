@@ -25,9 +25,9 @@ I did a independent project of analyzing about 35912 hotel reviews, which was do
 I plotted a bar chart to analyze the top ten states in USA with most hotel reviews. In addition, I used a words cloud about hotel marks, which can reflet hotels' types in the dataset.
 
 <img src = "/figures/HotelReview/hotelReviews_province.jpg" alt = "Characters Occurrence" width="500">
-<br>
+
 <img src = "/figures/HotelReview/wordCloud.jpg" alt = "Characters Occurrence" width="500">
-<br>
+
 <img src = "/figures/HotelReview/reviewsCloud.jpg" alt = "Characters Occurrence" width="500">
 
 I needed to select important words as fetures to train my model. Therefore, I used Chi-squre  test to select important words. Meanwhile, I caculated the frenquency of every words. The fetures should have big chi-squre value and high frequency. Based on this rule, I select about 1000 words as fetures.
