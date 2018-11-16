@@ -16,6 +16,7 @@ This is a project of a recommender system that can recommend games on steam plat
 
 ##### Sentiment Analysis on Hotel Reviews
 This is a sentiment analysis project, where I analyze hotel reviews using methods in natural language processing.
-<img src = "/figures/HotelReview/hotelReviews_province.jpg" alt = "Characters Occurrence" width="500">
+
+<img src = "/figures/HotelReview/wordCloud.jpg" alt = "Characters Occurrence" width="500">
 
 [back](./)
