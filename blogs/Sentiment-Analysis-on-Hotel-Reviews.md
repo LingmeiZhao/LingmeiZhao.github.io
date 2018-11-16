@@ -28,7 +28,8 @@ Using the selected feture to match the reviews. If a review has the word, then t
 
 ## Model Result
 I used confuse matrix to analyze the model resutl. The program code is as following.
-```
+
+```python
 import pandas as pd
 import nltk 
 from nltk.corpus import stopwords
@@ -119,6 +120,7 @@ word_freq.to_csv("word_freq.csv", index = False)
 
 df.to_csv("hotel_reviews4.csv", index = False)
 ```
+
 The confuse matrix graph:
 <img src = "/figures/HotelReview/Normal Confusion Matrix.jpg" alt = "Characters Occurrence">
 The total precise is about 63%. The model has better performance on positive review.
