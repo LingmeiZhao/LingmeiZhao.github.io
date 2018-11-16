@@ -39,11 +39,6 @@ table {
   border-spacing: 0;
 }
 
-table, th, td {
-    border: 0px solid black;
-    border-collapse: collapse;
-}
-
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
@@ -476,5 +471,9 @@ Small Device Styles
     max-width: 320px;
     font-size: 11px;
   }
+}
 
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
 }
