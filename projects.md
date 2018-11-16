@@ -36,6 +36,7 @@ Next, I trained my model using Logistic Regression. Finally, using the trainning
 
 The confuse matrix graph:
 <img src = "/figures/HotelReview/Normal Confusion Matrix.jpg" alt = "Characters Occurrence" width="500">
+
 The total precise is about 63%. The model has better performance on positive review.
 
 [back](./)
