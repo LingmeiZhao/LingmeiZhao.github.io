@@ -28,7 +28,6 @@ time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
-  max-width: 500px;
 }
 
 ol, ul {
@@ -38,6 +37,11 @@ ol, ul {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+}
+
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
 }
 
 /*******************************************************************************

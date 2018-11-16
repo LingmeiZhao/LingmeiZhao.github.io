@@ -5,7 +5,7 @@ layout: default
 Finally, you find me here!
 
 <div class="container-narrow">
-<table style="width:300px">
+<table>
 <tr>
   <td class="left">
     <a href="pages/publpics/Sentiment-Analysis-on-Hotel-Reviews.html">
