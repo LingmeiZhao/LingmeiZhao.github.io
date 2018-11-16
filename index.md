@@ -6,7 +6,8 @@ Finally, you find me here!
 
 I am a graduate student in George Washington University, working in the GWU JITR Lab. I am interested in computer science, statistics, and machine learning.
 
-<div class="container-narrow">
+Here are my <a href="./projects.html"> projects </a>.
+
 <table>
 <tr>
   <td class="left">
@@ -33,4 +34,3 @@ I am a graduate student in George Washington University, working in the GWU JITR
   </td>
 </tr>
 </table>
-</div>
