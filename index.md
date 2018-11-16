@@ -4,6 +4,8 @@ layout: default
 
 Finally, you find me here!
 
+I am a graduate student in George Washington University, working in the GWU JITR Lab. I am interested in computer science, statistics, and machine learning.
+
 <div class="container-narrow">
 <table>
 <tr>
