@@ -4,6 +4,11 @@ layout: default
 
 ## Projects
 
+<ul>
+<li> <a href="blogs/Recommender-System-on-Game.html"> Steam Game Recommender System </a> </li>
+<li> <a href="blogs/Sentiment-Analysis-on-Hotel-Reviews.html"> Sentiment Analysis on Hotel Reviews </a> </li>
+</ul>
+
 ##### Steam Game Recommender System
 I did simple statistics discribing. After delete few extram data, I plotted two bar charts about users' game playing time and users' game purchasing to analyzed the top ten popular games. From the bar charts, we can see the popular played games are also purchased most.
 
