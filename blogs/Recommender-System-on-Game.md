@@ -1,11 +1,6 @@
 ---
-layout: post
-title: Recommender System on Game
-category:
-- Data Science
-- Recommender System
-- Recommender System
---- 
+layout: default
+---
 
 Recommender System is very import in business and Internt. I am very interested in recommender system, so I found a game dataset and I did a game recommender system based on the dataset.
 
