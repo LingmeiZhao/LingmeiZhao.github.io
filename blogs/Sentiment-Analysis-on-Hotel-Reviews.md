@@ -12,9 +12,12 @@ I plotted a bar chart to analyze the top ten states in USA with most hotel revie
 
 <img src = "/figures/HotelReview/hotelReviews_province.jpg" alt = "Characters Occurrence">
 
+
 <img src = "/figures/HotelReview/wordCloud.jpg" alt = "Characters Occurrence">
 
+
 <img src = "/figures/HotelReview/reviewsCloud.jpg" alt = "Characters Occurrence">
+
 
 # Data Modeling
 ## Feture Selection
