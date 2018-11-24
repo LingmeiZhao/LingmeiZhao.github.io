@@ -10,13 +10,13 @@ This dataset has a big problem, which is the reviews have different languages. I
 # Data Visualization
 I plotted a bar chart to analyze the top ten states in the USA with most hotel reviews. Also, I used a words cloud about hotel marks, which can reflect hotels’ types in the dataset. I also plotted a words cloud about reviews to analyze the frequency of words in the hotel review. These graphs are posted as follows.
 
-<img src = "/figures/HotelReview/hotelReviews_province.jpg" alt = "Characters Occurrence">
+<img src="/figures/HotelReview/hotelReviews_province.jpg" alt="Characters Occurrence" style="width:400px;height:300px;">
 
 
-<img src = "/figures/HotelReview/wordCloud.jpg" alt = "Characters Occurrence">
+<img src="/figures/HotelReview/wordCloud.jpg" alt="Characters Occurrence" style="width:400px;height:300px;">
 
 
-<img src = "/figures/HotelReview/reviewsCloud.jpg" alt = "Characters Occurrence">
+<img src="/figures/HotelReview/reviewsCloud.jpg" alt="Characters Occurrence" style="width:400px;height:300px;">
 
 
 # Data Modeling
@@ -123,5 +123,5 @@ df.to_csv("hotel_reviews4.csv", index = False)
 ```
 
 The confuse matrix graph:
-<img src = "/figures/HotelReview/Normal Confusion Matrix.jpg" alt = "Characters Occurrence">
+<img src = "/figures/HotelReview/Normal Confusion Matrix.jpg" alt = "Characters Occurrence" style="width:400px;height:300px;">
 The total precise is about 63%. The model has better performance on positive review.
