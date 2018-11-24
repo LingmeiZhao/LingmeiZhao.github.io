@@ -31,13 +31,38 @@
         </header>
     </div>
 
-      <div class="navbar navbar-default" align="left">
-        <ul class="nav" float="left">
-            <li><a href="{{ HOME_PATH }}">Home</a></li>
-            <li><a href="{{ BASE_PATH }}/pages/projects.html">Projects</a></li>
-            <li><a href="{{ BASE_PATH }}/blog/blog.html">Blog</a></li>
-            <li><a href="{{ BASE_PATH }}/pages/about.html">About</a></li>
-        </ul>
+    <style>
+    black_ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+    }
+
+    black_li {
+        float: left;
+    }
+
+    black_li black_a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+
+    black_li black_a:hover {
+        background-color: #111;
+    }
+    </style>
+      <div class="navbar" align="left">
+        <black_ul>
+            <black_li><black_a href="{{ HOME_PATH }}">Home</black_a></black_li>
+            <black_li><black_a href="{{ BASE_PATH }}/pages/projects.html">Projects</black_a></black_li>
+            <black_li><black_a href="{{ BASE_PATH }}/blog/blog.html">Blog</black_a></black_li>
+            <black_li><black_a href="{{ BASE_PATH }}/pages/about.html">About</black_a></black_li>
+        </black_ul>
       </div>
 
     <!-- MAIN CONTENT -->
