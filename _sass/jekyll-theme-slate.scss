@@ -26,7 +26,7 @@ time, mark, audio, video {
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
-footer, hgroup, menu, nav, section {
+footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
@@ -282,6 +282,7 @@ Full-Width Styles
 }
 
 #header_wrap {
+  border: none;
   background: #da785b;
   background: -moz-linear-gradient(top, #e5a08c, #da785b);
   background: -webkit-linear-gradient(top, #e5a08c, #da785b);
