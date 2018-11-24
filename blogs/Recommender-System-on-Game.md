@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Recommender System is very import in business and Internt. I am very interested in recommender system, so I found a game dataset and I did a game recommender system based on the dataset.
+Recommender System is essential in E-commerce. I am very interested in the recommender system. Hence I created a game recommender system based on the dataset provided by steam.
 
-# Data Visualation
+# Data Visualization
 
-This dataset is rather clean. Therefore, I did not spend much time to clean data. However, to find whether there exist extram data, I did simple statistics discribing. After delete few extram data, I plotted two bar charts about users' game playing time and users' game purchasing to analyzed the top ten popular games. From the bar charts, we can see the popular played games are also purchased most.
+To identify outliers in the dataset, I carried out exploratory analysis on it. After I removed anomalies, I plotted two bar charts regarding users’ games' play time and purchase records to analyze the top ten favorite games. From the bar charts, we can see the popular games in the scale of play time are also got the most purchases.
 
 
 <img src = "/figures/recommenderSystem/game_play_char.png" alt = "game playing bar chart">
@@ -14,18 +14,12 @@ This dataset is rather clean. Therefore, I did not spend much time to clean data
 
 <img src = "/figures/recommenderSystem/game_purchase_char.png" alt = "game purchasing bar chart">
 
-
-
-
-After analyzing the top 10 popular games, I implemented density distribution plot to see users' game playing distribution. Most users are playing game less than 100, only few users have long game-playing time. To better show the distribution, I did a log transformation of the playing time.
-
+After analyzing the top 10 popular games, I plotted the distribution of users’ games' play time. Most users are playing a game less than 100 hours, while a few users have longer game-playing time. To better show the distribution, I made a log transformation of the playing time.
  
 <img src = "/figures/recommenderSystem/play_time_histogram.png" alt = "game playing histogram">
 
 <img src = "/figures/recommenderSystem/play_time_density.png" alt = "game playing time density">
 
 
-# Data Construct
-To quantify users preference for game, I used quintiles of users' game playing time, which divided all playing time into five grades as rating. Then I applied collaborative filtering to make recommendations for users using pandas and numpy. Accoding to the rating matrix, recommendate the highest rating game for users.
-
-
+# Collaborative Filtering
+To quantify users preference for the games, I used quantiles of users’ game playing time, which divided all playing time into five grades as a rating. Then I applied collaborative filtering to make recommendations for users using pandas and numpy. According to the rating matrix, the program can recommend the highest score game for users.
