@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Web design is fabulous for me because I can show whatever fantastic on the web. What I wanted to create is a bulletin board. Therefore, I began my creating work using Javascript.
 
 ### Design Web Style
