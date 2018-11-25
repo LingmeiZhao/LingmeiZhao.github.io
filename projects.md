@@ -14,7 +14,7 @@ layout: default
 This is a project of a recommender system that can recommend games on steam platform based on users' ratings.
 
  <a href="blogs/Recommender-System-on-Game.html">
-        <img src= "/figures/recommenderSystem/game_play_char.png" alt="game playing time char" title="game playing time char", width="500"/>
+        <img src= "/figures/recommenderSystem/game_play_char.png" alt="game playing time char" width="500"/>
 </a>
 <!--
 <img src = "/figures/recommenderSystem/game_play_char.png" alt = "game playing bar chart" width="500">
