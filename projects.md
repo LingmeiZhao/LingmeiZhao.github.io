@@ -7,6 +7,7 @@ layout: default
 <ul>
 <li> <a href="blogs/Recommender-System-on-Game.html"> Steam Game Recommender System </a> </li>
 <li> <a href="blogs/Sentiment-Analysis-on-Hotel-Reviews.html"> Sentiment Analysis on Hotel Reviews </a> </li>
+<li> <a href="Bulletin Board.html"> Bulletin Board </a> </li>
 </ul>
 
 ##### Steam Game Recommender System
