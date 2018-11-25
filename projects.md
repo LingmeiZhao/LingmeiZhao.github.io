@@ -13,8 +13,12 @@ layout: default
 ##### Steam Game Recommender System
 This is a project of a recommender system that can recommend games on steam platform based on users' ratings.
 
+ <a href="blogs/Recommender-System-on-Game.html">
+        <img src= "/figures/recommenderSystem/game_play_char.png" alt="game playing time char" title="game playing time char", width="500"/>
+</a>
+<!--
 <img src = "/figures/recommenderSystem/game_play_char.png" alt = "game playing bar chart" width="500">
-
+-->
 ##### Sentiment Analysis on Hotel Reviews
 This is a sentiment analysis project, where I analyze hotel reviews using methods in natural language processing.
 
