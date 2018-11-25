@@ -19,4 +19,8 @@ This is a sentiment analysis project, where I analyze hotel reviews using method
 
 <img src = "/figures/HotelReview/wordCloud.jpg" alt = "Characters Occurrence" width="500">
 
+##### Bulletin Board
+This is a front-end web design project, which is an iteractive bulletin board. You can add, edit, and remove items.
+
+<img src = "/figures/bulletinBoard/bulletin_board.png" alt = "Bulletin Board" width = "500">
 [back](./)
