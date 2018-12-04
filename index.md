@@ -12,24 +12,24 @@ Here are my <a href="./projects.html"> projects </a>.
 <tr>
   <td class="left">
     <a href="https://lingmeizhao.github.io/blogs/Sentiment-Analysis-on-Hotel-Reviews.html">
-        <img src="assets/images/wordCloud.jpg" alt="words cloud" title="wordCloud" height="300" width="300"/>
+        <img src="assets/images/wordCloud.jpg" alt="words cloud" title="wordCloud" height="300" width="400"/>
     </a>
   </td>
   <td class="right">
-    <a href="https://lingmeizhao.github.io/blogs/Sentiment-Analysis-on-Hotel-Reviews.html">
-        <img src="assets/images/Normal Confusion Matrix.jpg" alt=" confusion matrix" title="Normal Confusion Matrix" height="300" width="300"/>
+    <a href="https://lingmeizhao.github.io/blogs/Recommender-System-on-Game.html">
+        <img src="assets/images/game_play_char.png" alt="game playing bar chart" title="game playing bar chart" height="300" width="400"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="https://lingmeizhao.github.io/blogs/Recommender-System-on-Game.html">
-        <img src="assets/images/play_time_histogram.png" alt="game playing time histogram" title="game playing time histogram" height="300" width="300"/>
+    <a href="https://lingmeizhao.github.io/blogs/Bulletin-Board.html">
+        <img src="assets/images/bulletin_board.png" alt="bulletin board" title="Bulletin Board UI" height="300" width="400"/>
     </a>
   </td>
   <td class="right">
     <a href="https://lingmeizhao.github.io/blogs/Recommender-System-on-Game.html">
-        <img src="assets/images/game_play_char.png" alt="game playing bar chart" title="game playing bar chart" height="300" width="300"/>
+        <img src="assets/images/ScatterPlotProdictor.png" alt="Correlation Coeffient" title="Scatter Plot" height="300" width="400"/>
     </a>
   </td>
 </tr>
