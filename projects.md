@@ -40,4 +40,9 @@ This is a front-end web design project, which is an iteractive bulletin board. Y
 <!--
 <img src = "/figures/bulletinBoard/bulletin_board.png" alt = "Bulletin Board" width = "500">
 -->
+##### Regression Analysis
+This is a regression analysis project, which is finding the best model the air pollution condition and forcating the air pollution condition of a city based on the model.
+<a href="blogs/Bulletin-Board.html">
+        <img src= "/figures/regressionAnalysis/ScatterPlotProdictor.png" alt="Correlated Coeffients Matrix" width="500"/>
+</a>
 [back](./)

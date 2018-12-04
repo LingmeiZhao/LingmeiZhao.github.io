@@ -4,7 +4,7 @@ layout: default
 
 Finally, you find me here!
 
-I am a graduate student in George Washington University, working in the GWU JITR Lab. I am interested in computer science, statistics, and machine learning.
+I am a graduate student in George Washington University, working in the GWU JITR Lab. I am interested in  statistics, computer science, data analytics, and machine learning.
 
 Here are my <a href="./projects.html"> projects </a>.
 
