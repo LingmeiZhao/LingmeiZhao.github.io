@@ -8,6 +8,7 @@ layout: default
 <li> <a href="blogs/Recommender-System-on-Game.html"> Steam Game Recommender System </a> </li>
 <li> <a href="blogs/Sentiment-Analysis-on-Hotel-Reviews.html"> Sentiment Analysis on Hotel Reviews </a> </li>
 <li> <a href="blogs/Bulletin-Board.html"> Bulletin Board </a> </li>
+<li> <a href="blogs/Regression-Analysis-on-Air-Pollution.html"> Regression Analysis </a> </li>sss
 </ul>
 
 ##### Steam Game Recommender System
@@ -45,4 +46,7 @@ This is a regression analysis project, which is finding the best model the air p
 <a href="blogs/Bulletin-Board.html">
         <img src= "/figures/regressionAnalysis/ScatterPlotProdictor.png" alt="Correlated Coeffients Matrix" width="500"/>
 </a>
+<!--
+<img src = "/figures/bulletinBoard/bulletin_board.png" alt = "Bulletin Board" width = "500">
+-->
 [back](./)
