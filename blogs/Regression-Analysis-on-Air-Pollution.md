@@ -14,9 +14,9 @@ Not all variables are highly related with the dependent variable, which is Nitro
 ### Detecting Outliers
 Detecting outliers is very important for linear regression. Because outliers may badly affect the result of our regression result.
 I used boxplot and histogram to detect outliers. The graphs shows there are five outliers in the dataset.
-<img src = "/figures/regressionAnalysis/boxPlot.png" alt = "Box Plot" style="width:400px;height:300px;">
+<img src = "/figures/regressionAnalysis/boxPlot.png" alt = "Box Plot" width = "500"">
 
-<img src = "/figures/regressionAnalysis/histogram_density.png" alt = "Histogram" style="width:400px;height:300px;">
+<img src = "/figures/regressionAnalysis/histogram_density.png" alt = "Histogram" width = "500">
 
 ### Checking Collinear Problem
 I use pearson correlation coeffients to check if there exists Collinear probrem. From these matrix, we see that some variables have this problem. Therefore, I delete this variables, which have collinearity problem.
