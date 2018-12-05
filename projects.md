@@ -8,7 +8,7 @@ layout: default
 <li> <a href="blogs/Recommender-System-on-Game.html"> Steam Game Recommender System </a> </li>
 <li> <a href="blogs/Sentiment-Analysis-on-Hotel-Reviews.html"> Sentiment Analysis on Hotel Reviews </a> </li>
 <li> <a href="blogs/Bulletin-Board.html"> Bulletin Board </a> </li>
-<li> <a href="blogs/Regression-Analysis-on-Air-Pollution.html"> Regression Analysis </a> </li>sss
+<li> <a href="blogs/Regression-Analysis-on-Air-Pollution.html"> Regression Analysis </a> </li>
 </ul>
 
 ##### Steam Game Recommender System
@@ -43,10 +43,12 @@ This is a front-end web design project, which is an iteractive bulletin board. Y
 -->
 ##### Regression Analysis
 This is a regression analysis project, which is finding the best model the air pollution condition and forcating the air pollution condition of a city based on the model.
-<a href="blogs/Bulletin-Board.html">
+<a href="blogs/Regression-Analysis-on-Air-Pollution.html">
         <img src= "/figures/regressionAnalysis/ScatterPlotProdictor.png" alt="Correlated Coeffients Matrix" width="500"/>
 </a>
+
 <!--
 <img src = "/figures/bulletinBoard/bulletin_board.png" alt = "Bulletin Board" width = "500">
 -->
+
 [back](./)
