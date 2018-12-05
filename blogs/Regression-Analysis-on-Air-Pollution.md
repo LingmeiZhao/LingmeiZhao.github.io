@@ -28,6 +28,7 @@ I use residual plot to check this problem. As the graph show, the residuals are 
 
 ### Checking Autocorrelation Problem.
 I also use residual plot to check this problem. But at this time, I use residual-index plot. Also, residuals are randomly distributed with index. Therefore, there is no such problem.
+<img src = "/figures/regressionAnalysis/residualPlot.png" alt = "Resplot" width = "500">
 
 ### Model Fitting
 After deleting the collinear data, I can do regression analysis now. The fowllowing graph is the scatter plot of dependent variable and predictors. There are linear relationships between them. 

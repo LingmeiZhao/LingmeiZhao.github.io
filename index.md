@@ -28,7 +28,7 @@ Here are my <a href="./projects.html"> projects </a>.
     </a>
   </td>
   <td class="right">
-    <a href="https://lingmeizhao.github.io/blogs/Recommender-System-on-Game.html">
+    <a href="https://lingmeizhao.github.io/blogs/Regression-Analysis-on-Air-Pollution.html">
         <img src="assets/images/ScatterPlotProdictor.png" alt="Correlation Coeffient" title="Scatter Plot" height="300" width="400"/>
     </a>
   </td>
