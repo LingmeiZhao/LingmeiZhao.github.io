@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Sentiment Analysis on Hotel Reviews
 
 Sentiment Analysis is critical in text data mining, and I am passionate about it. Therefore, I did an independent project of analyzing about 35,912 hotel reviews, which I downloaded from Kaggle. This data set is perfect for sentiment analysis because it has users’ ratings for hotels, that represent users’ sentiment bias. According to the ratings, I can divide every review in train dataset into positive and negative. In this way, I can quickly solve the problem of a hand-classified dataset. The following is the whole process I did this project.
 

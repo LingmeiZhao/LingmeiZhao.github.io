@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Recommender System on Video Game
 
 Recommender System is essential in E-commerce. I am very interested in the recommender system. Hence I created a game recommender system based on the dataset provided by steam.
 
